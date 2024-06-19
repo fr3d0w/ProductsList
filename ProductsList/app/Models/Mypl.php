@@ -13,5 +13,5 @@ class Mypl extends Model
         'description',
         'price',
         'created_at',
-    ]
+    ];
 }
